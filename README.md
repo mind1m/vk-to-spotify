@@ -1,6 +1,6 @@
 UPDATE
 --------------------
-Apparently, vk.com doesn not allow to acces audio via API anymore, so this project is obsolete.
+Apparently, vk.com does not allow to acces audio via API anymore, so this project is obsolete.
 
 vk-to-spotify
 =============
